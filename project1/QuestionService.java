@@ -1,4 +1,4 @@
-package Java_Projects.Project1;
+package Java_Projects.project1;
 import java.util.Scanner;
 public class QuestionService {
     String[] StudAns=new String[5];

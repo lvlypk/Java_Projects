@@ -1,4 +1,4 @@
-package Java_Projects.Project1;
+package Java_Projects.project1;
 
 public class Questions {
 private  int id;
